@@ -2,12 +2,16 @@ Userspace
 =========
 
 Algorithms - contains varios algorithm realization
-	fibonacci_last_digit - search for the last digit of given fibonacci number
-	fibonacci_mod - calculate remainder of dividing a fibonacci number by user number
+
+fibonacci_last_digit - search for the last digit of given fibonacci number
+
+fibonacci_mod - calculate remainder of dividing a fibonacci number by user number
 
 Number system - programm that makes calculations on number in any number system
-	NS.cpp - addition and subtruction in any number system
-	BinToDec - convert input in binary format to decimal
+
+NS.cpp - addition and subtruction in any number system
+
+BinToDec - convert input in binary format to decimal
    
 Sniffer - simple programm thats monitor network packets in traffic 
 

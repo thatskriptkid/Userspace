@@ -1,4 +1,4 @@
-All code is licensed under WTFPL (You just DO WHAT THE FUCK YOU WANT TO)
+All code is licensed under WTFPL. You can even assign authorship to yourself.
 
 Algorithms - contains varios algorithm realization
 

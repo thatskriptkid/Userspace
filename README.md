@@ -1,6 +1,4 @@
-Userspace
-=========
-All code was written accroding to Linux Kernel Coding Style (https://www.kernel.org/doc/Documentation/CodingStyle). Yes, userspace programms in kernel coding style.
+All code is licensed under WTFPL (You just DO WHAT THE FUCK YOU WANT TO)
 
 Algorithms - contains varios algorithm realization
 
